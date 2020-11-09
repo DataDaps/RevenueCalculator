@@ -1,4 +1,5 @@
 # RevenueCalculator
-A small script for my business to help me calculate how many jobs of a certain type I need to complete to achieve an inputted revenue amount per month. It will also show net income.
-It was created as an exercise in OOP and to create a practical script that I would consistenly use. 
+A small script I created for my business that helps me calculate net income from various job types once I input them. 
+It also calculatues how many job types I must complete to achieve an inputted profit amount per month. 
+It was created as an exercise in usuing a bit of OOP with classes and functions in order to create a practical script that I would consistently use. 
 A GUI with PyQt5 will be the next step. 
